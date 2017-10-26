@@ -1,9 +1,5 @@
 ![](http://i.imgur.com/DUiL9yn.png)
 
-# React/Sass/Redux Boilerplate
-
-Boilerplate and guide for a React/Sass/Redux build.
-
 ## Getting Started
 
 To get started, first install all the necessary dependencies.
